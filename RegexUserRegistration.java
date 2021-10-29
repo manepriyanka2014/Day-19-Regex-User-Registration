@@ -37,4 +37,3 @@ public class RegexUserRegistration {
         userDetails.password(password);
     }
 }
-
