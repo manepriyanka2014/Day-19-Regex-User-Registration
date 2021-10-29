@@ -1,5 +1,6 @@
 package bridgelabz.Regex;
 
+
 import java.util.Scanner;
 
 public class RegexUserRegistration {
@@ -24,4 +25,12 @@ public class RegexUserRegistration {
         String emailId = scanner.next();
         userDetails.emailId(emailId);
     }
+
+    public void userMobileNumber() {
+        System.out.println("Enter your MobileNumber");
+        String mobileNumber = scanner.next();
+        userDetails.mobileNumber(mobileNumber);
+    }
 }
+
+
