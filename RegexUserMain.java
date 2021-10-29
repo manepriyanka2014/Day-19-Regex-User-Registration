@@ -48,5 +48,3 @@ public class RegexUserMain {
         regexUserMain.scanner.close();
     }
 }
-
-
